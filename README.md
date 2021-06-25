@@ -1,6 +1,6 @@
 # Excel-Dashboard-Project
 
-It's a simple project created in excel. The excel file contains sales data of various companies. Various pivot tables are created to analyze the data based on date, year, region, sales person, comapny, items and revenue. It contains 7 excel sheets.
+It's a simple project created in excel. The excel file contains sales data of various companies. Various pivot tables are created to analyze the data based on date, year, region, sales person, company, items and revenue. It contains 7 excel sheets.
 
 Sales Data contains the actual data on which the analysis is to b e done.
 
